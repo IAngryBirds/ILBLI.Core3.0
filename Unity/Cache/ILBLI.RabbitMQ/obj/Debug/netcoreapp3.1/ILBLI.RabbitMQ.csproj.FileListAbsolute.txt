@@ -1,0 +1,8 @@
+C:\张杰\GITHUB\ILBLI.Core3.0\Unity\Cache\ILBLI.RabbitMQ\bin\Debug\netcoreapp3.1\ILBLI.RabbitMQ.deps.json
+C:\张杰\GITHUB\ILBLI.Core3.0\Unity\Cache\ILBLI.RabbitMQ\bin\Debug\netcoreapp3.1\ILBLI.RabbitMQ.dll
+C:\张杰\GITHUB\ILBLI.Core3.0\Unity\Cache\ILBLI.RabbitMQ\bin\Debug\netcoreapp3.1\ILBLI.RabbitMQ.pdb
+C:\张杰\GITHUB\ILBLI.Core3.0\Unity\Cache\ILBLI.RabbitMQ\obj\Debug\netcoreapp3.1\ILBLI.RabbitMQ.csprojAssemblyReference.cache
+C:\张杰\GITHUB\ILBLI.Core3.0\Unity\Cache\ILBLI.RabbitMQ\obj\Debug\netcoreapp3.1\ILBLI.RabbitMQ.AssemblyInfoInputs.cache
+C:\张杰\GITHUB\ILBLI.Core3.0\Unity\Cache\ILBLI.RabbitMQ\obj\Debug\netcoreapp3.1\ILBLI.RabbitMQ.AssemblyInfo.cs
+C:\张杰\GITHUB\ILBLI.Core3.0\Unity\Cache\ILBLI.RabbitMQ\obj\Debug\netcoreapp3.1\ILBLI.RabbitMQ.dll
+C:\张杰\GITHUB\ILBLI.Core3.0\Unity\Cache\ILBLI.RabbitMQ\obj\Debug\netcoreapp3.1\ILBLI.RabbitMQ.pdb
