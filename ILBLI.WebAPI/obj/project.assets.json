@@ -3496,7 +3496,10 @@
         },
         "runtime": {
           "bin/placeholder/ILBLI.IRepository.dll": {}
-        }
+        },
+        "frameworkReferences": [
+          "Microsoft.AspNetCore.App"
+        ]
       },
       "ILBLI.IService/1.0.0": {
         "type": "project",
@@ -3511,7 +3514,10 @@
         },
         "runtime": {
           "bin/placeholder/ILBLI.IService.dll": {}
-        }
+        },
+        "frameworkReferences": [
+          "Microsoft.AspNetCore.App"
+        ]
       },
       "ILBLI.JwtAuthication/1.0.0": {
         "type": "project",
@@ -3528,7 +3534,10 @@
         },
         "runtime": {
           "bin/placeholder/ILBLI.JwtAuthication.dll": {}
-        }
+        },
+        "frameworkReferences": [
+          "Microsoft.AspNetCore.App"
+        ]
       },
       "ILBLI.Model/1.0.0": {
         "type": "project",
@@ -3541,7 +3550,10 @@
         },
         "runtime": {
           "bin/placeholder/ILBLI.Model.dll": {}
-        }
+        },
+        "frameworkReferences": [
+          "Microsoft.AspNetCore.App"
+        ]
       },
       "ILBLI.RabbitMQ/1.0.0": {
         "type": "project",
@@ -3590,7 +3602,10 @@
         },
         "runtime": {
           "bin/placeholder/ILBLI.Repository.dll": {}
-        }
+        },
+        "frameworkReferences": [
+          "Microsoft.AspNetCore.App"
+        ]
       },
       "ILBLI.Service/1.0.0": {
         "type": "project",
@@ -3603,7 +3618,10 @@
         },
         "runtime": {
           "bin/placeholder/ILBLI.Service.dll": {}
-        }
+        },
+        "frameworkReferences": [
+          "Microsoft.AspNetCore.App"
+        ]
       },
       "ILBLI.SnowFlak/1.0.0": {
         "type": "project",
@@ -3661,7 +3679,10 @@
         },
         "runtime": {
           "bin/placeholder/ILBLI.Unity.dll": {}
-        }
+        },
+        "frameworkReferences": [
+          "Microsoft.AspNetCore.App"
+        ]
       }
     }
   },
@@ -10680,7 +10701,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
       }
     }
   }
