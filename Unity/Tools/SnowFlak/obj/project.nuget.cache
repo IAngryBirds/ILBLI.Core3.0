@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "KIq/MMie1NgtsdpbR8dd4UWkOhiP+nDUTMb6F9SyN2/WyrY+a0GEX7PtseI4RTguYHjdf3zINcpCmhffTNdtag==",
+  "success": true,
+  "projectFilePath": "C:\\张杰\\GITHUB\\ILBLI.Core3.0\\Unity\\Tools\\SnowFlak\\ILBLI.SnowFlak.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\zhang\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.1.0\\microsoft.extensions.dependencyinjection.abstractions.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

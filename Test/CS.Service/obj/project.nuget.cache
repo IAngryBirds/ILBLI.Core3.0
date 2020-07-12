@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ExOZQnkYff97J0vhWsIJK9HZiXd/JP8mjVT+Pn54vayySMKQ43Cjjm3iSvYF9a9sdi95kau6yuBcg9s8BJ/YFw==",
+  "success": true,
+  "projectFilePath": "C:\\张杰\\GITHUB\\ILBLI.Core3.0\\Test\\CS.Service\\CS.Service.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\zhang\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

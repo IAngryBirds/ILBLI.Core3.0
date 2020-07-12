@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "uj3kigo80r0le0JyiK0TGbp5Tpo4BXgkNIh83KH7FeiZ4GFLItRxI3UBWwd9gRjuD8jI8CtNlZeK3evEu0kd3w==",
+  "success": true,
+  "projectFilePath": "C:\\张杰\\GITHUB\\ILBLI.Core3.0\\Unity\\Container\\ILBLI.Autofac\\ILBLI.Autofac.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\zhang\\.nuget\\packages\\autofac\\4.9.4\\autofac.4.9.4.nupkg.sha512",
+    "C:\\Users\\zhang\\.nuget\\packages\\autofac.extensions.dependencyinjection\\5.0.1\\autofac.extensions.dependencyinjection.5.0.1.nupkg.sha512",
+    "C:\\Users\\zhang\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\2.1.0\\microsoft.extensions.dependencyinjection.abstractions.2.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
