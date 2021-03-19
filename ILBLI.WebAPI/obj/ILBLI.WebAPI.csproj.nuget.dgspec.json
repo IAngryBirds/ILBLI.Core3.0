@@ -1,54 +1,53 @@
 {
   "format": 1,
   "restore": {
-    "C:\\张杰\\GITHUB\\ILBLI.Core3.0\\ILBLI.WebAPI\\ILBLI.WebAPI.csproj": {}
+    "C:\\ILBLI\\GITHUB\\ILBLI.Core3.0\\ILBLI.WebAPI\\ILBLI.WebAPI.csproj": {}
   },
   "projects": {
-    "C:\\张杰\\GITHUB\\ILBLI.Core3.0\\ILBLI.Core\\ILBLI.Unity.csproj": {
+    "C:\\ILBLI\\GITHUB\\ILBLI.Core3.0\\ILBLI.Core\\ILBLI.Unity.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\张杰\\GITHUB\\ILBLI.Core3.0\\ILBLI.Core\\ILBLI.Unity.csproj",
+        "projectUniqueName": "C:\\ILBLI\\GITHUB\\ILBLI.Core3.0\\ILBLI.Core\\ILBLI.Unity.csproj",
         "projectName": "ILBLI.Unity",
-        "projectPath": "C:\\张杰\\GITHUB\\ILBLI.Core3.0\\ILBLI.Core\\ILBLI.Unity.csproj",
-        "packagesPath": "C:\\Users\\zhang\\.nuget\\packages\\",
-        "outputPath": "C:\\张杰\\GITHUB\\ILBLI.Core3.0\\ILBLI.Core\\obj\\",
+        "projectPath": "C:\\ILBLI\\GITHUB\\ILBLI.Core3.0\\ILBLI.Core\\ILBLI.Unity.csproj",
+        "packagesPath": "C:\\Users\\ILBLI\\.nuget\\packages\\",
+        "outputPath": "C:\\ILBLI\\GITHUB\\ILBLI.Core3.0\\ILBLI.Core\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\zhang\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ILBLI\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\张杰\\GITHUB\\ILBLI.Core3.0\\Unity\\Authication\\ILBLI.JwtAuthication\\ILBLI.JwtAuthication.csproj": {
-                "projectPath": "C:\\张杰\\GITHUB\\ILBLI.Core3.0\\Unity\\Authication\\ILBLI.JwtAuthication\\ILBLI.JwtAuthication.csproj"
+              "C:\\ILBLI\\GITHUB\\ILBLI.Core3.0\\Unity\\Authication\\ILBLI.JwtAuthication\\ILBLI.JwtAuthication.csproj": {
+                "projectPath": "C:\\ILBLI\\GITHUB\\ILBLI.Core3.0\\Unity\\Authication\\ILBLI.JwtAuthication\\ILBLI.JwtAuthication.csproj"
               },
-              "C:\\张杰\\GITHUB\\ILBLI.Core3.0\\Unity\\Cache\\ILBLI.RabbitMQ\\ILBLI.RabbitMQ.csproj": {
-                "projectPath": "C:\\张杰\\GITHUB\\ILBLI.Core3.0\\Unity\\Cache\\ILBLI.RabbitMQ\\ILBLI.RabbitMQ.csproj"
+              "C:\\ILBLI\\GITHUB\\ILBLI.Core3.0\\Unity\\Cache\\ILBLI.RabbitMQ\\ILBLI.RabbitMQ.csproj": {
+                "projectPath": "C:\\ILBLI\\GITHUB\\ILBLI.Core3.0\\Unity\\Cache\\ILBLI.RabbitMQ\\ILBLI.RabbitMQ.csproj"
               },
-              "C:\\张杰\\GITHUB\\ILBLI.Core3.0\\Unity\\Cache\\ILBLI.Redis\\ILBLI.Redis.csproj": {
-                "projectPath": "C:\\张杰\\GITHUB\\ILBLI.Core3.0\\Unity\\Cache\\ILBLI.Redis\\ILBLI.Redis.csproj"
+              "C:\\ILBLI\\GITHUB\\ILBLI.Core3.0\\Unity\\Cache\\ILBLI.Redis\\ILBLI.Redis.csproj": {
+                "projectPath": "C:\\ILBLI\\GITHUB\\ILBLI.Core3.0\\Unity\\Cache\\ILBLI.Redis\\ILBLI.Redis.csproj"
               },
-              "C:\\张杰\\GITHUB\\ILBLI.Core3.0\\Unity\\Container\\ILBLI.Autofac\\ILBLI.Autofac.csproj": {
-                "projectPath": "C:\\张杰\\GITHUB\\ILBLI.Core3.0\\Unity\\Container\\ILBLI.Autofac\\ILBLI.Autofac.csproj"
+              "C:\\ILBLI\\GITHUB\\ILBLI.Core3.0\\Unity\\Container\\ILBLI.Autofac\\ILBLI.Autofac.csproj": {
+                "projectPath": "C:\\ILBLI\\GITHUB\\ILBLI.Core3.0\\Unity\\Container\\ILBLI.Autofac\\ILBLI.Autofac.csproj"
               },
-              "C:\\张杰\\GITHUB\\ILBLI.Core3.0\\Unity\\Mapper\\ILBLI.AutoMapper\\ILBLI.AutoMapper.csproj": {
-                "projectPath": "C:\\张杰\\GITHUB\\ILBLI.Core3.0\\Unity\\Mapper\\ILBLI.AutoMapper\\ILBLI.AutoMapper.csproj"
+              "C:\\ILBLI\\GITHUB\\ILBLI.Core3.0\\Unity\\Mapper\\ILBLI.AutoMapper\\ILBLI.AutoMapper.csproj": {
+                "projectPath": "C:\\ILBLI\\GITHUB\\ILBLI.Core3.0\\Unity\\Mapper\\ILBLI.AutoMapper\\ILBLI.AutoMapper.csproj"
               },
-              "C:\\张杰\\GITHUB\\ILBLI.Core3.0\\Unity\\SqlData\\ILBLI.SqlSugar\\ILBLI.SqlSugar.csproj": {
-                "projectPath": "C:\\张杰\\GITHUB\\ILBLI.Core3.0\\Unity\\SqlData\\ILBLI.SqlSugar\\ILBLI.SqlSugar.csproj"
+              "C:\\ILBLI\\GITHUB\\ILBLI.Core3.0\\Unity\\SqlData\\ILBLI.SqlSugar\\ILBLI.SqlSugar.csproj": {
+                "projectPath": "C:\\ILBLI\\GITHUB\\ILBLI.Core3.0\\Unity\\SqlData\\ILBLI.SqlSugar\\ILBLI.SqlSugar.csproj"
               },
-              "C:\\张杰\\GITHUB\\ILBLI.Core3.0\\Unity\\Tools\\SnowFlak\\ILBLI.SnowFlak.csproj": {
-                "projectPath": "C:\\张杰\\GITHUB\\ILBLI.Core3.0\\Unity\\Tools\\SnowFlak\\ILBLI.SnowFlak.csproj"
+              "C:\\ILBLI\\GITHUB\\ILBLI.Core3.0\\Unity\\Tools\\SnowFlak\\ILBLI.SnowFlak.csproj": {
+                "projectPath": "C:\\ILBLI\\GITHUB\\ILBLI.Core3.0\\Unity\\Tools\\SnowFlak\\ILBLI.SnowFlak.csproj"
               }
             }
           }
@@ -61,6 +60,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "dependencies": {
             "Microsoft.AspNetCore.Http.Abstractions": {
               "target": "Package",
@@ -105,40 +105,39 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\张杰\\GITHUB\\ILBLI.Core3.0\\ILBLI.IRepository\\ILBLI.IRepository.csproj": {
+    "C:\\ILBLI\\GITHUB\\ILBLI.Core3.0\\ILBLI.IRepository\\ILBLI.IRepository.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\张杰\\GITHUB\\ILBLI.Core3.0\\ILBLI.IRepository\\ILBLI.IRepository.csproj",
+        "projectUniqueName": "C:\\ILBLI\\GITHUB\\ILBLI.Core3.0\\ILBLI.IRepository\\ILBLI.IRepository.csproj",
         "projectName": "ILBLI.IRepository",
-        "projectPath": "C:\\张杰\\GITHUB\\ILBLI.Core3.0\\ILBLI.IRepository\\ILBLI.IRepository.csproj",
-        "packagesPath": "C:\\Users\\zhang\\.nuget\\packages\\",
-        "outputPath": "C:\\张杰\\GITHUB\\ILBLI.Core3.0\\ILBLI.IRepository\\obj\\",
+        "projectPath": "C:\\ILBLI\\GITHUB\\ILBLI.Core3.0\\ILBLI.IRepository\\ILBLI.IRepository.csproj",
+        "packagesPath": "C:\\Users\\ILBLI\\.nuget\\packages\\",
+        "outputPath": "C:\\ILBLI\\GITHUB\\ILBLI.Core3.0\\ILBLI.IRepository\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\zhang\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ILBLI\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\张杰\\GITHUB\\ILBLI.Core3.0\\ILBLI.Core\\ILBLI.Unity.csproj": {
-                "projectPath": "C:\\张杰\\GITHUB\\ILBLI.Core3.0\\ILBLI.Core\\ILBLI.Unity.csproj"
+              "C:\\ILBLI\\GITHUB\\ILBLI.Core3.0\\ILBLI.Core\\ILBLI.Unity.csproj": {
+                "projectPath": "C:\\ILBLI\\GITHUB\\ILBLI.Core3.0\\ILBLI.Core\\ILBLI.Unity.csproj"
               },
-              "C:\\张杰\\GITHUB\\ILBLI.Core3.0\\ILBLI.Model\\ILBLI.Model.csproj": {
-                "projectPath": "C:\\张杰\\GITHUB\\ILBLI.Core3.0\\ILBLI.Model\\ILBLI.Model.csproj"
+              "C:\\ILBLI\\GITHUB\\ILBLI.Core3.0\\ILBLI.Model\\ILBLI.Model.csproj": {
+                "projectPath": "C:\\ILBLI\\GITHUB\\ILBLI.Core3.0\\ILBLI.Model\\ILBLI.Model.csproj"
               }
             }
           }
@@ -151,6 +150,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "imports": [
             "net461",
             "net462",
@@ -169,43 +169,42 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\张杰\\GITHUB\\ILBLI.Core3.0\\ILBLI.IService\\ILBLI.IService.csproj": {
+    "C:\\ILBLI\\GITHUB\\ILBLI.Core3.0\\ILBLI.IService\\ILBLI.IService.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\张杰\\GITHUB\\ILBLI.Core3.0\\ILBLI.IService\\ILBLI.IService.csproj",
+        "projectUniqueName": "C:\\ILBLI\\GITHUB\\ILBLI.Core3.0\\ILBLI.IService\\ILBLI.IService.csproj",
         "projectName": "ILBLI.IService",
-        "projectPath": "C:\\张杰\\GITHUB\\ILBLI.Core3.0\\ILBLI.IService\\ILBLI.IService.csproj",
-        "packagesPath": "C:\\Users\\zhang\\.nuget\\packages\\",
-        "outputPath": "C:\\张杰\\GITHUB\\ILBLI.Core3.0\\ILBLI.IService\\obj\\",
+        "projectPath": "C:\\ILBLI\\GITHUB\\ILBLI.Core3.0\\ILBLI.IService\\ILBLI.IService.csproj",
+        "packagesPath": "C:\\Users\\ILBLI\\.nuget\\packages\\",
+        "outputPath": "C:\\ILBLI\\GITHUB\\ILBLI.Core3.0\\ILBLI.IService\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\zhang\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ILBLI\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\张杰\\GITHUB\\ILBLI.Core3.0\\ILBLI.Core\\ILBLI.Unity.csproj": {
-                "projectPath": "C:\\张杰\\GITHUB\\ILBLI.Core3.0\\ILBLI.Core\\ILBLI.Unity.csproj"
+              "C:\\ILBLI\\GITHUB\\ILBLI.Core3.0\\ILBLI.Core\\ILBLI.Unity.csproj": {
+                "projectPath": "C:\\ILBLI\\GITHUB\\ILBLI.Core3.0\\ILBLI.Core\\ILBLI.Unity.csproj"
               },
-              "C:\\张杰\\GITHUB\\ILBLI.Core3.0\\ILBLI.IRepository\\ILBLI.IRepository.csproj": {
-                "projectPath": "C:\\张杰\\GITHUB\\ILBLI.Core3.0\\ILBLI.IRepository\\ILBLI.IRepository.csproj"
+              "C:\\ILBLI\\GITHUB\\ILBLI.Core3.0\\ILBLI.IRepository\\ILBLI.IRepository.csproj": {
+                "projectPath": "C:\\ILBLI\\GITHUB\\ILBLI.Core3.0\\ILBLI.IRepository\\ILBLI.IRepository.csproj"
               },
-              "C:\\张杰\\GITHUB\\ILBLI.Core3.0\\ILBLI.Model\\ILBLI.Model.csproj": {
-                "projectPath": "C:\\张杰\\GITHUB\\ILBLI.Core3.0\\ILBLI.Model\\ILBLI.Model.csproj"
+              "C:\\ILBLI\\GITHUB\\ILBLI.Core3.0\\ILBLI.Model\\ILBLI.Model.csproj": {
+                "projectPath": "C:\\ILBLI\\GITHUB\\ILBLI.Core3.0\\ILBLI.Model\\ILBLI.Model.csproj"
               }
             }
           }
@@ -218,6 +217,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "imports": [
             "net461",
             "net462",
@@ -236,37 +236,36 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\张杰\\GITHUB\\ILBLI.Core3.0\\ILBLI.Model\\ILBLI.Model.csproj": {
+    "C:\\ILBLI\\GITHUB\\ILBLI.Core3.0\\ILBLI.Model\\ILBLI.Model.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\张杰\\GITHUB\\ILBLI.Core3.0\\ILBLI.Model\\ILBLI.Model.csproj",
+        "projectUniqueName": "C:\\ILBLI\\GITHUB\\ILBLI.Core3.0\\ILBLI.Model\\ILBLI.Model.csproj",
         "projectName": "ILBLI.Model",
-        "projectPath": "C:\\张杰\\GITHUB\\ILBLI.Core3.0\\ILBLI.Model\\ILBLI.Model.csproj",
-        "packagesPath": "C:\\Users\\zhang\\.nuget\\packages\\",
-        "outputPath": "C:\\张杰\\GITHUB\\ILBLI.Core3.0\\ILBLI.Model\\obj\\",
+        "projectPath": "C:\\ILBLI\\GITHUB\\ILBLI.Core3.0\\ILBLI.Model\\ILBLI.Model.csproj",
+        "packagesPath": "C:\\Users\\ILBLI\\.nuget\\packages\\",
+        "outputPath": "C:\\ILBLI\\GITHUB\\ILBLI.Core3.0\\ILBLI.Model\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\zhang\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ILBLI\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\张杰\\GITHUB\\ILBLI.Core3.0\\ILBLI.Core\\ILBLI.Unity.csproj": {
-                "projectPath": "C:\\张杰\\GITHUB\\ILBLI.Core3.0\\ILBLI.Core\\ILBLI.Unity.csproj"
+              "C:\\ILBLI\\GITHUB\\ILBLI.Core3.0\\ILBLI.Core\\ILBLI.Unity.csproj": {
+                "projectPath": "C:\\ILBLI\\GITHUB\\ILBLI.Core3.0\\ILBLI.Core\\ILBLI.Unity.csproj"
               }
             }
           }
@@ -279,6 +278,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "imports": [
             "net461",
             "net462",
@@ -297,37 +297,36 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\张杰\\GITHUB\\ILBLI.Core3.0\\ILBLI.Repository\\ILBLI.Repository.csproj": {
+    "C:\\ILBLI\\GITHUB\\ILBLI.Core3.0\\ILBLI.Repository\\ILBLI.Repository.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\张杰\\GITHUB\\ILBLI.Core3.0\\ILBLI.Repository\\ILBLI.Repository.csproj",
+        "projectUniqueName": "C:\\ILBLI\\GITHUB\\ILBLI.Core3.0\\ILBLI.Repository\\ILBLI.Repository.csproj",
         "projectName": "ILBLI.Repository",
-        "projectPath": "C:\\张杰\\GITHUB\\ILBLI.Core3.0\\ILBLI.Repository\\ILBLI.Repository.csproj",
-        "packagesPath": "C:\\Users\\zhang\\.nuget\\packages\\",
-        "outputPath": "C:\\张杰\\GITHUB\\ILBLI.Core3.0\\ILBLI.Repository\\obj\\",
+        "projectPath": "C:\\ILBLI\\GITHUB\\ILBLI.Core3.0\\ILBLI.Repository\\ILBLI.Repository.csproj",
+        "packagesPath": "C:\\Users\\ILBLI\\.nuget\\packages\\",
+        "outputPath": "C:\\ILBLI\\GITHUB\\ILBLI.Core3.0\\ILBLI.Repository\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\zhang\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ILBLI\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\张杰\\GITHUB\\ILBLI.Core3.0\\ILBLI.IRepository\\ILBLI.IRepository.csproj": {
-                "projectPath": "C:\\张杰\\GITHUB\\ILBLI.Core3.0\\ILBLI.IRepository\\ILBLI.IRepository.csproj"
+              "C:\\ILBLI\\GITHUB\\ILBLI.Core3.0\\ILBLI.IRepository\\ILBLI.IRepository.csproj": {
+                "projectPath": "C:\\ILBLI\\GITHUB\\ILBLI.Core3.0\\ILBLI.IRepository\\ILBLI.IRepository.csproj"
               }
             }
           }
@@ -340,6 +339,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "dependencies": {
             "Microsoft.Extensions.Logging.Abstractions": {
               "target": "Package",
@@ -364,37 +364,36 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\张杰\\GITHUB\\ILBLI.Core3.0\\ILBLI.Service\\ILBLI.Service.csproj": {
+    "C:\\ILBLI\\GITHUB\\ILBLI.Core3.0\\ILBLI.Service\\ILBLI.Service.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\张杰\\GITHUB\\ILBLI.Core3.0\\ILBLI.Service\\ILBLI.Service.csproj",
+        "projectUniqueName": "C:\\ILBLI\\GITHUB\\ILBLI.Core3.0\\ILBLI.Service\\ILBLI.Service.csproj",
         "projectName": "ILBLI.Service",
-        "projectPath": "C:\\张杰\\GITHUB\\ILBLI.Core3.0\\ILBLI.Service\\ILBLI.Service.csproj",
-        "packagesPath": "C:\\Users\\zhang\\.nuget\\packages\\",
-        "outputPath": "C:\\张杰\\GITHUB\\ILBLI.Core3.0\\ILBLI.Service\\obj\\",
+        "projectPath": "C:\\ILBLI\\GITHUB\\ILBLI.Core3.0\\ILBLI.Service\\ILBLI.Service.csproj",
+        "packagesPath": "C:\\Users\\ILBLI\\.nuget\\packages\\",
+        "outputPath": "C:\\ILBLI\\GITHUB\\ILBLI.Core3.0\\ILBLI.Service\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\zhang\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ILBLI\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\张杰\\GITHUB\\ILBLI.Core3.0\\ILBLI.IService\\ILBLI.IService.csproj": {
-                "projectPath": "C:\\张杰\\GITHUB\\ILBLI.Core3.0\\ILBLI.IService\\ILBLI.IService.csproj"
+              "C:\\ILBLI\\GITHUB\\ILBLI.Core3.0\\ILBLI.IService\\ILBLI.IService.csproj": {
+                "projectPath": "C:\\ILBLI\\GITHUB\\ILBLI.Core3.0\\ILBLI.IService\\ILBLI.IService.csproj"
               }
             }
           }
@@ -407,6 +406,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "imports": [
             "net461",
             "net462",
@@ -425,49 +425,48 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\张杰\\GITHUB\\ILBLI.Core3.0\\ILBLI.WebAPI\\ILBLI.WebAPI.csproj": {
+    "C:\\ILBLI\\GITHUB\\ILBLI.Core3.0\\ILBLI.WebAPI\\ILBLI.WebAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\张杰\\GITHUB\\ILBLI.Core3.0\\ILBLI.WebAPI\\ILBLI.WebAPI.csproj",
+        "projectUniqueName": "C:\\ILBLI\\GITHUB\\ILBLI.Core3.0\\ILBLI.WebAPI\\ILBLI.WebAPI.csproj",
         "projectName": "ILBLI.WebAPI",
-        "projectPath": "C:\\张杰\\GITHUB\\ILBLI.Core3.0\\ILBLI.WebAPI\\ILBLI.WebAPI.csproj",
-        "packagesPath": "C:\\Users\\zhang\\.nuget\\packages\\",
-        "outputPath": "C:\\张杰\\GITHUB\\ILBLI.Core3.0\\ILBLI.WebAPI\\obj\\",
+        "projectPath": "C:\\ILBLI\\GITHUB\\ILBLI.Core3.0\\ILBLI.WebAPI\\ILBLI.WebAPI.csproj",
+        "packagesPath": "C:\\Users\\ILBLI\\.nuget\\packages\\",
+        "outputPath": "C:\\ILBLI\\GITHUB\\ILBLI.Core3.0\\ILBLI.WebAPI\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\zhang\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ILBLI\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\张杰\\GITHUB\\ILBLI.Core3.0\\ILBLI.Core\\ILBLI.Unity.csproj": {
-                "projectPath": "C:\\张杰\\GITHUB\\ILBLI.Core3.0\\ILBLI.Core\\ILBLI.Unity.csproj"
+              "C:\\ILBLI\\GITHUB\\ILBLI.Core3.0\\ILBLI.Core\\ILBLI.Unity.csproj": {
+                "projectPath": "C:\\ILBLI\\GITHUB\\ILBLI.Core3.0\\ILBLI.Core\\ILBLI.Unity.csproj"
               },
-              "C:\\张杰\\GITHUB\\ILBLI.Core3.0\\ILBLI.IService\\ILBLI.IService.csproj": {
-                "projectPath": "C:\\张杰\\GITHUB\\ILBLI.Core3.0\\ILBLI.IService\\ILBLI.IService.csproj"
+              "C:\\ILBLI\\GITHUB\\ILBLI.Core3.0\\ILBLI.IService\\ILBLI.IService.csproj": {
+                "projectPath": "C:\\ILBLI\\GITHUB\\ILBLI.Core3.0\\ILBLI.IService\\ILBLI.IService.csproj"
               },
-              "C:\\张杰\\GITHUB\\ILBLI.Core3.0\\ILBLI.Model\\ILBLI.Model.csproj": {
-                "projectPath": "C:\\张杰\\GITHUB\\ILBLI.Core3.0\\ILBLI.Model\\ILBLI.Model.csproj"
+              "C:\\ILBLI\\GITHUB\\ILBLI.Core3.0\\ILBLI.Model\\ILBLI.Model.csproj": {
+                "projectPath": "C:\\ILBLI\\GITHUB\\ILBLI.Core3.0\\ILBLI.Model\\ILBLI.Model.csproj"
               },
-              "C:\\张杰\\GITHUB\\ILBLI.Core3.0\\ILBLI.Repository\\ILBLI.Repository.csproj": {
-                "projectPath": "C:\\张杰\\GITHUB\\ILBLI.Core3.0\\ILBLI.Repository\\ILBLI.Repository.csproj"
+              "C:\\ILBLI\\GITHUB\\ILBLI.Core3.0\\ILBLI.Repository\\ILBLI.Repository.csproj": {
+                "projectPath": "C:\\ILBLI\\GITHUB\\ILBLI.Core3.0\\ILBLI.Repository\\ILBLI.Repository.csproj"
               },
-              "C:\\张杰\\GITHUB\\ILBLI.Core3.0\\ILBLI.Service\\ILBLI.Service.csproj": {
-                "projectPath": "C:\\张杰\\GITHUB\\ILBLI.Core3.0\\ILBLI.Service\\ILBLI.Service.csproj"
+              "C:\\ILBLI\\GITHUB\\ILBLI.Core3.0\\ILBLI.Service\\ILBLI.Service.csproj": {
+                "projectPath": "C:\\ILBLI\\GITHUB\\ILBLI.Core3.0\\ILBLI.Service\\ILBLI.Service.csproj"
               }
             }
           }
@@ -480,6 +479,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "dependencies": {
             "Microsoft.AspNetCore.StaticFiles": {
               "target": "Package",
@@ -520,34 +520,33 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\张杰\\GITHUB\\ILBLI.Core3.0\\Unity\\Authication\\ILBLI.JwtAuthication\\ILBLI.JwtAuthication.csproj": {
+    "C:\\ILBLI\\GITHUB\\ILBLI.Core3.0\\Unity\\Authication\\ILBLI.JwtAuthication\\ILBLI.JwtAuthication.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\张杰\\GITHUB\\ILBLI.Core3.0\\Unity\\Authication\\ILBLI.JwtAuthication\\ILBLI.JwtAuthication.csproj",
+        "projectUniqueName": "C:\\ILBLI\\GITHUB\\ILBLI.Core3.0\\Unity\\Authication\\ILBLI.JwtAuthication\\ILBLI.JwtAuthication.csproj",
         "projectName": "ILBLI.JwtAuthication",
-        "projectPath": "C:\\张杰\\GITHUB\\ILBLI.Core3.0\\Unity\\Authication\\ILBLI.JwtAuthication\\ILBLI.JwtAuthication.csproj",
-        "packagesPath": "C:\\Users\\zhang\\.nuget\\packages\\",
-        "outputPath": "C:\\张杰\\GITHUB\\ILBLI.Core3.0\\Unity\\Authication\\ILBLI.JwtAuthication\\obj\\",
+        "projectPath": "C:\\ILBLI\\GITHUB\\ILBLI.Core3.0\\Unity\\Authication\\ILBLI.JwtAuthication\\ILBLI.JwtAuthication.csproj",
+        "packagesPath": "C:\\Users\\ILBLI\\.nuget\\packages\\",
+        "outputPath": "C:\\ILBLI\\GITHUB\\ILBLI.Core3.0\\Unity\\Authication\\ILBLI.JwtAuthication\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\zhang\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ILBLI\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
             "projectReferences": {}
           }
         },
@@ -559,6 +558,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "dependencies": {
             "Microsoft.AspNetCore.Authentication.Abstractions": {
               "target": "Package",
@@ -599,34 +599,33 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\张杰\\GITHUB\\ILBLI.Core3.0\\Unity\\Cache\\ILBLI.RabbitMQ\\ILBLI.RabbitMQ.csproj": {
+    "C:\\ILBLI\\GITHUB\\ILBLI.Core3.0\\Unity\\Cache\\ILBLI.RabbitMQ\\ILBLI.RabbitMQ.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\张杰\\GITHUB\\ILBLI.Core3.0\\Unity\\Cache\\ILBLI.RabbitMQ\\ILBLI.RabbitMQ.csproj",
+        "projectUniqueName": "C:\\ILBLI\\GITHUB\\ILBLI.Core3.0\\Unity\\Cache\\ILBLI.RabbitMQ\\ILBLI.RabbitMQ.csproj",
         "projectName": "ILBLI.RabbitMQ",
-        "projectPath": "C:\\张杰\\GITHUB\\ILBLI.Core3.0\\Unity\\Cache\\ILBLI.RabbitMQ\\ILBLI.RabbitMQ.csproj",
-        "packagesPath": "C:\\Users\\zhang\\.nuget\\packages\\",
-        "outputPath": "C:\\张杰\\GITHUB\\ILBLI.Core3.0\\Unity\\Cache\\ILBLI.RabbitMQ\\obj\\",
+        "projectPath": "C:\\ILBLI\\GITHUB\\ILBLI.Core3.0\\Unity\\Cache\\ILBLI.RabbitMQ\\ILBLI.RabbitMQ.csproj",
+        "packagesPath": "C:\\Users\\ILBLI\\.nuget\\packages\\",
+        "outputPath": "C:\\ILBLI\\GITHUB\\ILBLI.Core3.0\\Unity\\Cache\\ILBLI.RabbitMQ\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\zhang\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ILBLI\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
             "projectReferences": {}
           }
         },
@@ -638,6 +637,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "dependencies": {
             "Microsoft.Extensions.Configuration.Abstractions": {
               "target": "Package",
@@ -675,34 +675,33 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\张杰\\GITHUB\\ILBLI.Core3.0\\Unity\\Cache\\ILBLI.Redis\\ILBLI.Redis.csproj": {
+    "C:\\ILBLI\\GITHUB\\ILBLI.Core3.0\\Unity\\Cache\\ILBLI.Redis\\ILBLI.Redis.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\张杰\\GITHUB\\ILBLI.Core3.0\\Unity\\Cache\\ILBLI.Redis\\ILBLI.Redis.csproj",
+        "projectUniqueName": "C:\\ILBLI\\GITHUB\\ILBLI.Core3.0\\Unity\\Cache\\ILBLI.Redis\\ILBLI.Redis.csproj",
         "projectName": "ILBLI.Redis",
-        "projectPath": "C:\\张杰\\GITHUB\\ILBLI.Core3.0\\Unity\\Cache\\ILBLI.Redis\\ILBLI.Redis.csproj",
-        "packagesPath": "C:\\Users\\zhang\\.nuget\\packages\\",
-        "outputPath": "C:\\张杰\\GITHUB\\ILBLI.Core3.0\\Unity\\Cache\\ILBLI.Redis\\obj\\",
+        "projectPath": "C:\\ILBLI\\GITHUB\\ILBLI.Core3.0\\Unity\\Cache\\ILBLI.Redis\\ILBLI.Redis.csproj",
+        "packagesPath": "C:\\Users\\ILBLI\\.nuget\\packages\\",
+        "outputPath": "C:\\ILBLI\\GITHUB\\ILBLI.Core3.0\\Unity\\Cache\\ILBLI.Redis\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\zhang\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ILBLI\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
             "projectReferences": {}
           }
         },
@@ -714,6 +713,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "dependencies": {
             "Microsoft.Extensions.Caching.Abstractions": {
               "target": "Package",
@@ -755,34 +755,33 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\张杰\\GITHUB\\ILBLI.Core3.0\\Unity\\Container\\ILBLI.Autofac\\ILBLI.Autofac.csproj": {
+    "C:\\ILBLI\\GITHUB\\ILBLI.Core3.0\\Unity\\Container\\ILBLI.Autofac\\ILBLI.Autofac.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\张杰\\GITHUB\\ILBLI.Core3.0\\Unity\\Container\\ILBLI.Autofac\\ILBLI.Autofac.csproj",
+        "projectUniqueName": "C:\\ILBLI\\GITHUB\\ILBLI.Core3.0\\Unity\\Container\\ILBLI.Autofac\\ILBLI.Autofac.csproj",
         "projectName": "ILBLI.Autofac",
-        "projectPath": "C:\\张杰\\GITHUB\\ILBLI.Core3.0\\Unity\\Container\\ILBLI.Autofac\\ILBLI.Autofac.csproj",
-        "packagesPath": "C:\\Users\\zhang\\.nuget\\packages\\",
-        "outputPath": "C:\\张杰\\GITHUB\\ILBLI.Core3.0\\Unity\\Container\\ILBLI.Autofac\\obj\\",
+        "projectPath": "C:\\ILBLI\\GITHUB\\ILBLI.Core3.0\\Unity\\Container\\ILBLI.Autofac\\ILBLI.Autofac.csproj",
+        "packagesPath": "C:\\Users\\ILBLI\\.nuget\\packages\\",
+        "outputPath": "C:\\ILBLI\\GITHUB\\ILBLI.Core3.0\\Unity\\Container\\ILBLI.Autofac\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\zhang\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ILBLI\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
             "projectReferences": {}
           }
         },
@@ -794,6 +793,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "dependencies": {
             "Autofac": {
               "target": "Package",
@@ -819,34 +819,33 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\张杰\\GITHUB\\ILBLI.Core3.0\\Unity\\Mapper\\ILBLI.AutoMapper\\ILBLI.AutoMapper.csproj": {
+    "C:\\ILBLI\\GITHUB\\ILBLI.Core3.0\\Unity\\Mapper\\ILBLI.AutoMapper\\ILBLI.AutoMapper.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\张杰\\GITHUB\\ILBLI.Core3.0\\Unity\\Mapper\\ILBLI.AutoMapper\\ILBLI.AutoMapper.csproj",
+        "projectUniqueName": "C:\\ILBLI\\GITHUB\\ILBLI.Core3.0\\Unity\\Mapper\\ILBLI.AutoMapper\\ILBLI.AutoMapper.csproj",
         "projectName": "ILBLI.AutoMapper",
-        "projectPath": "C:\\张杰\\GITHUB\\ILBLI.Core3.0\\Unity\\Mapper\\ILBLI.AutoMapper\\ILBLI.AutoMapper.csproj",
-        "packagesPath": "C:\\Users\\zhang\\.nuget\\packages\\",
-        "outputPath": "C:\\张杰\\GITHUB\\ILBLI.Core3.0\\Unity\\Mapper\\ILBLI.AutoMapper\\obj\\",
+        "projectPath": "C:\\ILBLI\\GITHUB\\ILBLI.Core3.0\\Unity\\Mapper\\ILBLI.AutoMapper\\ILBLI.AutoMapper.csproj",
+        "packagesPath": "C:\\Users\\ILBLI\\.nuget\\packages\\",
+        "outputPath": "C:\\ILBLI\\GITHUB\\ILBLI.Core3.0\\Unity\\Mapper\\ILBLI.AutoMapper\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\zhang\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ILBLI\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
             "projectReferences": {}
           }
         },
@@ -858,6 +857,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "dependencies": {
             "AutoMapper": {
               "target": "Package",
@@ -883,34 +883,33 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\张杰\\GITHUB\\ILBLI.Core3.0\\Unity\\SqlData\\ILBLI.SqlSugar\\ILBLI.SqlSugar.csproj": {
+    "C:\\ILBLI\\GITHUB\\ILBLI.Core3.0\\Unity\\SqlData\\ILBLI.SqlSugar\\ILBLI.SqlSugar.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\张杰\\GITHUB\\ILBLI.Core3.0\\Unity\\SqlData\\ILBLI.SqlSugar\\ILBLI.SqlSugar.csproj",
+        "projectUniqueName": "C:\\ILBLI\\GITHUB\\ILBLI.Core3.0\\Unity\\SqlData\\ILBLI.SqlSugar\\ILBLI.SqlSugar.csproj",
         "projectName": "ILBLI.SqlSugar",
-        "projectPath": "C:\\张杰\\GITHUB\\ILBLI.Core3.0\\Unity\\SqlData\\ILBLI.SqlSugar\\ILBLI.SqlSugar.csproj",
-        "packagesPath": "C:\\Users\\zhang\\.nuget\\packages\\",
-        "outputPath": "C:\\张杰\\GITHUB\\ILBLI.Core3.0\\Unity\\SqlData\\ILBLI.SqlSugar\\obj\\",
+        "projectPath": "C:\\ILBLI\\GITHUB\\ILBLI.Core3.0\\Unity\\SqlData\\ILBLI.SqlSugar\\ILBLI.SqlSugar.csproj",
+        "packagesPath": "C:\\Users\\ILBLI\\.nuget\\packages\\",
+        "outputPath": "C:\\ILBLI\\GITHUB\\ILBLI.Core3.0\\Unity\\SqlData\\ILBLI.SqlSugar\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\zhang\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ILBLI\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
             "projectReferences": {}
           }
         },
@@ -922,6 +921,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "dependencies": {
             "Microsoft.AspNetCore.Http": {
               "target": "Package",
@@ -971,34 +971,33 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\张杰\\GITHUB\\ILBLI.Core3.0\\Unity\\Tools\\SnowFlak\\ILBLI.SnowFlak.csproj": {
+    "C:\\ILBLI\\GITHUB\\ILBLI.Core3.0\\Unity\\Tools\\SnowFlak\\ILBLI.SnowFlak.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\张杰\\GITHUB\\ILBLI.Core3.0\\Unity\\Tools\\SnowFlak\\ILBLI.SnowFlak.csproj",
+        "projectUniqueName": "C:\\ILBLI\\GITHUB\\ILBLI.Core3.0\\Unity\\Tools\\SnowFlak\\ILBLI.SnowFlak.csproj",
         "projectName": "ILBLI.SnowFlak",
-        "projectPath": "C:\\张杰\\GITHUB\\ILBLI.Core3.0\\Unity\\Tools\\SnowFlak\\ILBLI.SnowFlak.csproj",
-        "packagesPath": "C:\\Users\\zhang\\.nuget\\packages\\",
-        "outputPath": "C:\\张杰\\GITHUB\\ILBLI.Core3.0\\Unity\\Tools\\SnowFlak\\obj\\",
+        "projectPath": "C:\\ILBLI\\GITHUB\\ILBLI.Core3.0\\Unity\\Tools\\SnowFlak\\ILBLI.SnowFlak.csproj",
+        "packagesPath": "C:\\Users\\ILBLI\\.nuget\\packages\\",
+        "outputPath": "C:\\ILBLI\\GITHUB\\ILBLI.Core3.0\\Unity\\Tools\\SnowFlak\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\zhang\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ILBLI\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
             "projectReferences": {}
           }
         },
@@ -1010,6 +1009,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "dependencies": {
             "Microsoft.Extensions.DependencyInjection.Abstractions": {
               "target": "Package",
@@ -1031,7 +1031,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }

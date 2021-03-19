@@ -6,3 +6,12 @@ C:\张杰\GITHUB\ILBLI.Core3.0\Unity\Cache\ILBLI.Redis\obj\Debug\netcoreapp3.1\I
 C:\张杰\GITHUB\ILBLI.Core3.0\Unity\Cache\ILBLI.Redis\obj\Debug\netcoreapp3.1\ILBLI.Redis.AssemblyInfo.cs
 C:\张杰\GITHUB\ILBLI.Core3.0\Unity\Cache\ILBLI.Redis\obj\Debug\netcoreapp3.1\ILBLI.Redis.dll
 C:\张杰\GITHUB\ILBLI.Core3.0\Unity\Cache\ILBLI.Redis\obj\Debug\netcoreapp3.1\ILBLI.Redis.pdb
+C:\ILBLI\GITHUB\ILBLI.Core3.0\Unity\Cache\ILBLI.Redis\bin\Debug\netcoreapp3.1\ILBLI.Redis.deps.json
+C:\ILBLI\GITHUB\ILBLI.Core3.0\Unity\Cache\ILBLI.Redis\bin\Debug\netcoreapp3.1\ILBLI.Redis.dll
+C:\ILBLI\GITHUB\ILBLI.Core3.0\Unity\Cache\ILBLI.Redis\bin\Debug\netcoreapp3.1\ILBLI.Redis.pdb
+C:\ILBLI\GITHUB\ILBLI.Core3.0\Unity\Cache\ILBLI.Redis\obj\Debug\netcoreapp3.1\ILBLI.Redis.csprojAssemblyReference.cache
+C:\ILBLI\GITHUB\ILBLI.Core3.0\Unity\Cache\ILBLI.Redis\obj\Debug\netcoreapp3.1\ILBLI.Redis.AssemblyInfoInputs.cache
+C:\ILBLI\GITHUB\ILBLI.Core3.0\Unity\Cache\ILBLI.Redis\obj\Debug\netcoreapp3.1\ILBLI.Redis.AssemblyInfo.cs
+C:\ILBLI\GITHUB\ILBLI.Core3.0\Unity\Cache\ILBLI.Redis\obj\Debug\netcoreapp3.1\ILBLI.Redis.csproj.CoreCompileInputs.cache
+C:\ILBLI\GITHUB\ILBLI.Core3.0\Unity\Cache\ILBLI.Redis\obj\Debug\netcoreapp3.1\ILBLI.Redis.dll
+C:\ILBLI\GITHUB\ILBLI.Core3.0\Unity\Cache\ILBLI.Redis\obj\Debug\netcoreapp3.1\ILBLI.Redis.pdb

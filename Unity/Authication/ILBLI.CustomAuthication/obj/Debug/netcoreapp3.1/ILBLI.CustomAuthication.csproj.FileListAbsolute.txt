@@ -6,3 +6,12 @@ C:\张杰\GITHUB\ILBLI.Core3.0\Unity\Authication\ILBLI.CustomAuthication\obj\Deb
 C:\张杰\GITHUB\ILBLI.Core3.0\Unity\Authication\ILBLI.CustomAuthication\obj\Debug\netcoreapp3.1\ILBLI.CustomAuthication.AssemblyInfo.cs
 C:\张杰\GITHUB\ILBLI.Core3.0\Unity\Authication\ILBLI.CustomAuthication\obj\Debug\netcoreapp3.1\ILBLI.CustomAuthication.dll
 C:\张杰\GITHUB\ILBLI.Core3.0\Unity\Authication\ILBLI.CustomAuthication\obj\Debug\netcoreapp3.1\ILBLI.CustomAuthication.pdb
+C:\ILBLI\GITHUB\ILBLI.Core3.0\Unity\Authication\ILBLI.CustomAuthication\bin\Debug\netcoreapp3.1\ILBLI.CustomAuthication.deps.json
+C:\ILBLI\GITHUB\ILBLI.Core3.0\Unity\Authication\ILBLI.CustomAuthication\bin\Debug\netcoreapp3.1\ILBLI.CustomAuthication.dll
+C:\ILBLI\GITHUB\ILBLI.Core3.0\Unity\Authication\ILBLI.CustomAuthication\bin\Debug\netcoreapp3.1\ILBLI.CustomAuthication.pdb
+C:\ILBLI\GITHUB\ILBLI.Core3.0\Unity\Authication\ILBLI.CustomAuthication\obj\Debug\netcoreapp3.1\ILBLI.CustomAuthication.csprojAssemblyReference.cache
+C:\ILBLI\GITHUB\ILBLI.Core3.0\Unity\Authication\ILBLI.CustomAuthication\obj\Debug\netcoreapp3.1\ILBLI.CustomAuthication.AssemblyInfoInputs.cache
+C:\ILBLI\GITHUB\ILBLI.Core3.0\Unity\Authication\ILBLI.CustomAuthication\obj\Debug\netcoreapp3.1\ILBLI.CustomAuthication.AssemblyInfo.cs
+C:\ILBLI\GITHUB\ILBLI.Core3.0\Unity\Authication\ILBLI.CustomAuthication\obj\Debug\netcoreapp3.1\ILBLI.CustomAuthication.csproj.CoreCompileInputs.cache
+C:\ILBLI\GITHUB\ILBLI.Core3.0\Unity\Authication\ILBLI.CustomAuthication\obj\Debug\netcoreapp3.1\ILBLI.CustomAuthication.dll
+C:\ILBLI\GITHUB\ILBLI.Core3.0\Unity\Authication\ILBLI.CustomAuthication\obj\Debug\netcoreapp3.1\ILBLI.CustomAuthication.pdb

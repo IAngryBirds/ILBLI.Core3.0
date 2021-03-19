@@ -11,3 +11,12 @@ C:\张杰\GITHUB\ILBLI.Core3.0\Unity\SqlData\ILBLI.SqlSugar\obj\Debug\netcoreapp
 C:\张杰\GITHUB\ILBLI.Core3.0\Unity\SqlData\ILBLI.SqlSugar\obj\Debug\netcoreapp3.1\ILBLI.SqlSugar.AssemblyInfo.cs
 C:\张杰\GITHUB\ILBLI.Core3.0\Unity\SqlData\ILBLI.SqlSugar\obj\Debug\netcoreapp3.1\ILBLI.SqlSugar.dll
 C:\张杰\GITHUB\ILBLI.Core3.0\Unity\SqlData\ILBLI.SqlSugar\obj\Debug\netcoreapp3.1\ILBLI.SqlSugar.pdb
+C:\ILBLI\GITHUB\ILBLI.Core3.0\Unity\SqlData\ILBLI.SqlSugar\bin\Debug\netcoreapp3.1\ILBLI.SqlSugar.deps.json
+C:\ILBLI\GITHUB\ILBLI.Core3.0\Unity\SqlData\ILBLI.SqlSugar\bin\Debug\netcoreapp3.1\ILBLI.SqlSugar.dll
+C:\ILBLI\GITHUB\ILBLI.Core3.0\Unity\SqlData\ILBLI.SqlSugar\bin\Debug\netcoreapp3.1\ILBLI.SqlSugar.pdb
+C:\ILBLI\GITHUB\ILBLI.Core3.0\Unity\SqlData\ILBLI.SqlSugar\obj\Debug\netcoreapp3.1\ILBLI.SqlSugar.csprojAssemblyReference.cache
+C:\ILBLI\GITHUB\ILBLI.Core3.0\Unity\SqlData\ILBLI.SqlSugar\obj\Debug\netcoreapp3.1\ILBLI.SqlSugar.AssemblyInfoInputs.cache
+C:\ILBLI\GITHUB\ILBLI.Core3.0\Unity\SqlData\ILBLI.SqlSugar\obj\Debug\netcoreapp3.1\ILBLI.SqlSugar.AssemblyInfo.cs
+C:\ILBLI\GITHUB\ILBLI.Core3.0\Unity\SqlData\ILBLI.SqlSugar\obj\Debug\netcoreapp3.1\ILBLI.SqlSugar.csproj.CoreCompileInputs.cache
+C:\ILBLI\GITHUB\ILBLI.Core3.0\Unity\SqlData\ILBLI.SqlSugar\obj\Debug\netcoreapp3.1\ILBLI.SqlSugar.dll
+C:\ILBLI\GITHUB\ILBLI.Core3.0\Unity\SqlData\ILBLI.SqlSugar\obj\Debug\netcoreapp3.1\ILBLI.SqlSugar.pdb

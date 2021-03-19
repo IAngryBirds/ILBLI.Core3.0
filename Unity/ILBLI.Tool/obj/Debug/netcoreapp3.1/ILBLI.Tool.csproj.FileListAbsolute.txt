@@ -6,3 +6,12 @@ C:\张杰\GITHUB\ILBLI.Core3.0\Unity\ILBLI.Tool\obj\Debug\netcoreapp3.1\ILBLI.To
 C:\张杰\GITHUB\ILBLI.Core3.0\Unity\ILBLI.Tool\obj\Debug\netcoreapp3.1\ILBLI.Tool.AssemblyInfo.cs
 C:\张杰\GITHUB\ILBLI.Core3.0\Unity\ILBLI.Tool\obj\Debug\netcoreapp3.1\ILBLI.Tool.dll
 C:\张杰\GITHUB\ILBLI.Core3.0\Unity\ILBLI.Tool\obj\Debug\netcoreapp3.1\ILBLI.Tool.pdb
+C:\ILBLI\GITHUB\ILBLI.Core3.0\Unity\ILBLI.Tool\bin\Debug\netcoreapp3.1\ILBLI.Tool.deps.json
+C:\ILBLI\GITHUB\ILBLI.Core3.0\Unity\ILBLI.Tool\bin\Debug\netcoreapp3.1\ILBLI.Tool.dll
+C:\ILBLI\GITHUB\ILBLI.Core3.0\Unity\ILBLI.Tool\bin\Debug\netcoreapp3.1\ILBLI.Tool.pdb
+C:\ILBLI\GITHUB\ILBLI.Core3.0\Unity\ILBLI.Tool\obj\Debug\netcoreapp3.1\ILBLI.Tool.csprojAssemblyReference.cache
+C:\ILBLI\GITHUB\ILBLI.Core3.0\Unity\ILBLI.Tool\obj\Debug\netcoreapp3.1\ILBLI.Tool.AssemblyInfoInputs.cache
+C:\ILBLI\GITHUB\ILBLI.Core3.0\Unity\ILBLI.Tool\obj\Debug\netcoreapp3.1\ILBLI.Tool.AssemblyInfo.cs
+C:\ILBLI\GITHUB\ILBLI.Core3.0\Unity\ILBLI.Tool\obj\Debug\netcoreapp3.1\ILBLI.Tool.csproj.CoreCompileInputs.cache
+C:\ILBLI\GITHUB\ILBLI.Core3.0\Unity\ILBLI.Tool\obj\Debug\netcoreapp3.1\ILBLI.Tool.dll
+C:\ILBLI\GITHUB\ILBLI.Core3.0\Unity\ILBLI.Tool\obj\Debug\netcoreapp3.1\ILBLI.Tool.pdb
